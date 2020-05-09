@@ -1,4 +1,5 @@
-# bootstrap-side-modals
-Bootstrap 4 Top, Bottom and Side Modals
+# Bootstrap 4 Side Modals
+
+Top, Bottom and Side Modals
 
 https://codepen.io/xcartmods/pen/vYNdQpj
