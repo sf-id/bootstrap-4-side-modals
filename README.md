@@ -1,6 +1,6 @@
-# Bootstrap 4 Side Modals
+# Bootstrap 4 Top Bottom, Side & Full Screen Modals
 
-Top, Bottom, Side and Full Screen Modals
+Bootstrap 4 Top Bottom, Side & Full Screen Modals
 
 https://codepen.io/xcartmods/pen/vYNdQpj
 
