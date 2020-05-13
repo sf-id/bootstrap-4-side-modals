@@ -147,7 +147,7 @@
   overflow-y: auto;
 }
 
-.close-modal {
+.modal.full .close-modal {
   position: fixed;
   top: 0;
   right: 3rem;
