@@ -5,7 +5,7 @@ Bootstrap 4 Top Bottom, Side & Full Screen Modals
 https://codepen.io/xcartmods/pen/vYNdQpj
 
 ```
-<button type="button" class="btn btn-light border rounded-pill shadow-sm mb-1" data-toggle="modal" data-target="#left_modal_sm">Left Side Modal SM</button>
+<button type="button" data-toggle="modal" data-target="#left_modal_sm">Left Side Modal SM</button>
 ```
 
 ```
