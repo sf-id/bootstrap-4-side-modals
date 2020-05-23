@@ -162,3 +162,10 @@
   background: #fff;
   border-radius: 0;
 }
+
+/* XS */
+
+.modal.left.xs .modal-body,
+.modal.right.xs .modal-body {
+  padding: 15px;
+}
