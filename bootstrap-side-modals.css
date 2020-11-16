@@ -1,3 +1,6 @@
+html { height: 100%; }
+body { width: 100%; background: linear-gradient(to left top, blue, green); }
+
 .modal.left .modal-dialog,
 .modal.right .modal-dialog,
 .modal.top .modal-dialog,
@@ -170,3 +173,8 @@
   padding: 15px;
 }
 
+/* Full screen modal menu indicators */
+
+a.has-sub:after { font-family: "FontAwesome"; }
+a.has-sub:after { content: "\f107"; margin-left: 1rem; }
+a.has-sub[aria-expanded="true"]:after { content: "\f106"; }
