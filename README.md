@@ -4,9 +4,9 @@ Bootstrap 4/5 Top Bottom, Side & Full Screen Modals
 
 ## UPDATED 25/2/21 - Class names changed to .modal-*
 
-.modal-top / .modal-right / .modal-bottom / .modal-left
+<code>.modal-top</code> / <code>.modal-right</code> / <code>.modal-bottom</code> / <code>.modal-left</code>
 
-Adheres to the available .modal-dialog widths - .modal-sm / .modal-lg / .modal-xl
+Adheres to the available <code>.modal-dialog</code> widths - <code>.modal-sm</code> / <code>.modal-lg</code> / <code>.modal-xl</code>
 
 https://codepen.io/xcartmods/pen/vYNdQpj
 
