@@ -2,7 +2,7 @@
 
 Bootstrap 4 Top Bottom, Side & Full Screen Modals
 
-## UPDATED 25/2/21
+## UPDATED 25/2/21 - Class names changed to .modal-*
 
 https://codepen.io/xcartmods/pen/vYNdQpj
 
