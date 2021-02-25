@@ -1,6 +1,6 @@
-# Bootstrap 4 Top Bottom, Side & Full Screen Modals
+# Bootstrap 4/5 Top Bottom, Side & Full Screen Modals
 
-Bootstrap 4 Top Bottom, Side & Full Screen Modals
+Bootstrap 4/5 Top Bottom, Side & Full Screen Modals
 
 ## UPDATED 25/2/21 - Class names changed to .modal-*
 
