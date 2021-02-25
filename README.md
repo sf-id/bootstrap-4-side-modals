@@ -9,7 +9,7 @@ https://codepen.io/xcartmods/pen/vYNdQpj
 ```
 
 ```
-<div class="modal left fade" id="left_modal_sm" tabindex="-1" role="dialog" aria-labelledby="left_modal_sm">
+<div class="modal left modal-fade" id="left_modal_sm" tabindex="-1" role="dialog" aria-labelledby="left_modal_sm">
   <div class="modal-dialog modal-sm" role="document">
     <div class="modal-content">
       <div class="modal-header">
